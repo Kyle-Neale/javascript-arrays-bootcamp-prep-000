@@ -20,4 +20,6 @@ function destructivelyRemoveElementFromBeginningOfArray(array) {
   return array;
 }
 
-removeElementFromBeginningOfArray
+function removeElementFromBeginningOfArray(array) {
+  return array
+}
