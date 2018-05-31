@@ -11,6 +11,12 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
   return array;
 }
 
+function addElementToEndOfArray(array, element) {
+  
+}
+
+function 
+
 function accessElementInArray(array, idx) {
   return array[idx];
 }
